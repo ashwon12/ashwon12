@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# 🙂 About JaeWon
-
 안녕하세요, 안드로이드 개발자 **김재원** 입니다.
 
 앱 개발자는 디자이너, 서버 개발자, 기획자 다양한 분야의 노력과 정성을 한 곳으로 모으는 역할을 한다고 생각합니다. 
 
 모두의 노력을 **안정적**으로 표현해내도록 _열심히!, 성실하게!, 잘!_ 하려고 노력합니다.
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -35,7 +33,8 @@ MVI |  MVVM ｜ Coroutine ｜ Hilt ｜ Koin ｜ Room ｜ Retrofit
 
 Python ｜ Appium  ｜ Selneium  
 
----
+<br>
+
 
 ## 📫 Contact
 
