@@ -39,6 +39,7 @@ Python ｜ Appium  ｜ Selneium
 ## 📫 Contact
 
 <a href="https://velog.io/@ashwon1218"><img src="https://img.shields.io/badge/velog-%23121011.svg?style=flat&logo=velog&logoColor=white"/></a>
+<a href="https://www.canva.com/design/DAGp1k2RIfY/1BqRMkGr-gGqGttDRPmh_A/view?utm_content=DAGp1k2RIfY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha7c0ab7629"><img src="https://img.shields.io/badge/portfolio-DB631F.svg?&style=flat&logo=portfolio&logoColor=white"/></a>
 <a href="mailto:ashwon1218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>       
 
 </div>
